@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 public class SplashActivity extends AppCompatActivity {
 
-
+//trhngbfvdcsx
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
