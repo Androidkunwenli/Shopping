@@ -1,7 +1,10 @@
-package com.china.shopping.view.activity;
+package com.china.shopping;
 
-import com.china.shopping.R;
+import com.china.shopping.view.activity.BaseActivity;
 
+/**
+ * splash界面的作用  判断版本号  初始化数据
+ */
 public class SplashActivity extends BaseActivity {
     /**
      * 返回一个布局,用于初始化布局

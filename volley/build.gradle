@@ -6,3 +6,7 @@ android {
     buildToolsVersion "24.0.2"
     useLibrary "org.apache.http.legacy"
 }
+
+dependencies {
+    testCompile 'junit:junit:4.12'
+}
